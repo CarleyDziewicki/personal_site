@@ -2,4 +2,10 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- __Name: __ Carley
+- __Ocupation:__ "Masters Student"
+- __Hobbies:__ Running, Baking, Crafting and watching Survivor
+
+Here is a nice head shot, taken by my Dad.
+
+![](IMG_3922.jpeg)
