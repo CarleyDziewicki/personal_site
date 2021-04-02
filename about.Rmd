@@ -3,9 +3,9 @@ title: "About Me"
 ---
 
 - __Name: __ Carley
-- __Ocupation:__ "Masters Student"
+- __Ocupation:__ Masters Student
 - __Hobbies:__ Running, Baking, Crafting and watching Survivor
 
-Here is a nice head shot, taken by my Dad.
+Here is a nice head shot, taken at Pictured Rocks, MI.
 
 ![](IMG_3922.jpeg)
