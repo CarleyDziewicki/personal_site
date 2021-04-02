@@ -10,4 +10,6 @@ I would like to attach my resume here
 - Includes a github repo for access to all the code.
 - Look at how high quality my work is, hire and or collaborate with me. 
 
-![](ResumeCDziewickiR.pdf)
+
+ <iframe src="ResumeCDziewickiR.pdf" width="100%" height="500px">
+    </iframe>
