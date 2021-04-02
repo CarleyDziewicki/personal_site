@@ -5,6 +5,7 @@ title: "About Me"
 - __Name: __ Carley
 - __Ocupation:__ Masters Student
 - __Hobbies:__ Running, Baking, Crafting and watching Survivor
+- __Favorite Color:__ Yellow
 
 Here is a nice head shot, taken at Pictured Rocks, MI.
 
