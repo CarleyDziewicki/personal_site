@@ -6,12 +6,27 @@ title: "Professional"
 
 I am currently a full-time student working towards my Masters Degree in Data Science and Analytics at Grand Valley State University. My bachlors is in Mathematics from Kalamazoo College with a minor in Environmental Science. 
 
-Within the realm of data science and analytics I am looking for a career that will provide opportunites to be creative within the analytics process. I like project that have technical and creative elements, such as building this website. I am also very passionate about the environment and specifically food systems, and ways in which we can change our diet for our health but also our community and planet.
+Within the realm of data science and analytics I am looking for a career that will provide opportunites to be creative within the analytics process. I like projects that have technical and creative elements, such as building this website. I am also very passionate about the environment and specifically food systems, and ways in which we can change our diet for our health but also our community and planet.
 
 I have included my resume below. 
 
-## [LinkedIn Profile](https://www.linkedin.com/in/carley-dziewicki-4140321b8/)
-## [Undergraduate Thesis](https://cache.kzoo.edu/handle/10920/38630)
+
+```{r, echo = FALSE}
+skills<- c("R", "Tableau", "Excel", "MS Access", "Java")
+values<- c(10, 6, 8, 8, 4)
+
+df<- data.frame(skills,values)
+
+library(ggplot2)
+library(dplyr)
+
+df %>% ggplot(aes(y = values, x = skills)) + geom_bar(stat = "identity") + coord_flip() + theme_classic() + theme(axis.ticks=element_blank(),axis.line=element_blank(),axis.text.x=element_blank(), axis.title.y=element_blank(), axis.title.x = element_blank()) + labs(title = "Skill Level")
+
+```
+
+
+### [LinkedIn Profile](https://www.linkedin.com/in/carley-dziewicki-4140321b8/)
+### [Undergraduate Thesis](https://cache.kzoo.edu/handle/10920/38630)
 
 
 

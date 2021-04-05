@@ -2,7 +2,9 @@
 title: "Carley's Website"
 ---
 
-Hi! My name is Carley Dziewicki and I am 23 years old. I am currently getting a Masters degree in Data Science and Analytics from Grand Valley State University and have a Bachlors in Mathematics from Kalamazoo College. 
+Hi! My name is Carley Dziewicki and I am 23 years old. I am currently working towards a Masters degree in Data Science and Analytics from Grand Valley State University and have a Bachlors in Mathematics from Kalamazoo College. 
+
+This is my first website, please explore all the tabs!
 
 ![](Kcheer.jpg)
 
